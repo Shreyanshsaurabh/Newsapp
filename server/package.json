@@ -3,9 +3,7 @@
   "version": "1.0.0",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js",
-    "heroku-postbuild": "cd .. && npm install && npm run build",
-    "dev": "node server.js"
+    "start": "node server.js"
   },
   "dependencies": {
     "axios": "^1.6.8",
