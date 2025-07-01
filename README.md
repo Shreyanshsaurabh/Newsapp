@@ -1,12 +1,27 @@
-# React + Vite
+# 📰 NewsApp
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, full-stack News App that delivers the latest headlines and articles from around the world. Built with a responsive UI, real-time news API integration, and a robust backend.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🌟 Features
 
-## Expanding the ESLint configuration
+- 🔍 Search for news by keyword or category
+- 🗞️ View trending headlines by country
+- 📱 Fully responsive UI
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+- ⚛️ React (or Next.js)
+- 🌐 Axios for API calls
+
+### Backend
+- 🟩 Node.js + Express
+- 🌍 NewsAPI / other news source integration
+- 📦 dotenv for config management
+
+
+
